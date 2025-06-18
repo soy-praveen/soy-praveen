@@ -38,10 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
 </p>
 
-
 ---
 
-### 📊 GitHub Stats & Languages
+<h3>📊 GitHub Stats & Languages</h3>
 
 <p align="center">
   <img 
@@ -56,16 +55,19 @@
 
 ---
 
-### 🎮 Currently Into
+<h3>🎯 Interests</h3>
 
-- 🎯 Competitive coding on LeetCode & HackerRank  
-- ⚙️ Learning advanced CI/CD, cloud deployments, and DevOps tooling  
-- 🕹️ Gaming: Solo Leveling, FPS, and story-based RPGs  
-- 🌱 Building projects with Node.js, Python, and cloud APIs  
+<p>
+  <img src="https://img.shields.io/badge/-Competitive%20Coding-blue?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CI%2FCD%20&%20DevOps-yellow?style=flat-square&logo=jenkins&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Gaming-red?style=flat-square&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud%20Projects-blueviolet?style=flat-square&logo=azure-devops&logoColor=white" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
+<h3>⚡ Fun Fact</h3>
+
 > “Leveling up in code and in game — always.”
 
 ---
