@@ -1,7 +1,7 @@
 <!-- Profile README: soy-praveen -->
 
 <h1 align="center">Hi, I'm Praveen 👋</h1>
-<h3 align="center">CS Student | DevOps Enthusiast | Gamer | VIT Chennai</h3>
+<h3 align="center">CS Student | DevOps Enthusiast | VIT Chennai</h3>
 
 <p align="center">
   Passionate about building <b>modern web apps</b>, diving into <b>DevOps</b>, and leveling up in <b>games & code</b>.<br/>
