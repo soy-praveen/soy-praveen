@@ -81,8 +81,9 @@
 <h3>🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soy-praveen&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=soy-praveen&theme=tokyonight&hide_border=true" />
 </p>
+
 <h3>🎧 Now Playing</h3>
 
 <p align="center">
