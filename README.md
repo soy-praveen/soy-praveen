@@ -77,15 +77,4 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8F00FF&center=true&width=435&lines=Code.+Deploy.+Game.+Repeat." alt="Typing SVG" />
 </p>
 
-<h3>🎧 Now Playing</h3>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31awkhnlpnsyrahqcgxz3rdcik6i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
-</p>
-
-
-<h3>Fun Fact</h3>
-
-<p><i>“Leveling up in code and in game — always.”</i></p>
-
 ---
