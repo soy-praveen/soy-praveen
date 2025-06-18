@@ -4,7 +4,7 @@
 <h3 align="center">CS Student | DevOps Enthusiast | Gamer | VIT Chennai</h3>
 
 <p align="center">
-  🚀 Passionate about building <b>modern web apps</b>, diving into <b>DevOps</b>, and leveling up in <b>games & code</b>.<br/>
+  Passionate about building <b>modern web apps</b>, diving into <b>DevOps</b>, and leveling up in <b>games & code</b>.<br/>
   Let's connect and build something epic together!
 </p>
 
@@ -21,7 +21,7 @@
 
 ---
 
-<h3>📦 Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -40,7 +40,7 @@
 
 ---
 
-<h3>📊 GitHub Stats & Languages</h3>
+<h3>GitHub Stats</h3>
 
 <p align="center">
   <img 
@@ -55,19 +55,19 @@
 
 ---
 
-<h3>🎯 Interests</h3>
+<h3>Currently Into</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/-Competitive%20Coding-blue?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CI%2FCD%20&%20DevOps-yellow?style=flat-square&logo=jenkins&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Gaming-red?style=flat-square&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cloud%20Projects-blueviolet?style=flat-square&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Competitive_Coding-1f425f?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CI/CD_&_DevOps-F7DF1E?style=flat-square&logo=jenkins&logoColor=black" />
+  <img src="https://img.shields.io/badge/Gaming-1b2838?style=flat-square&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Projects-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
 
 ---
 
-<h3>⚡ Fun Fact</h3>
+<h3>Fun Fact</h3>
 
-> “Leveling up in code and in game — always.”
+<p><i>“Leveling up in code and in game — always.”</i></p>
 
 ---
