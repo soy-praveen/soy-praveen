@@ -83,6 +83,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soy-praveen&theme=tokyonight&hide_border=true" />
 </p>
+<h3>🎧 Now Playing</h3>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31awkhnlpnsyrahqcgxz3rdcik6i&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true" />
+</p>
 
 
 <h3>Fun Fact</h3>
