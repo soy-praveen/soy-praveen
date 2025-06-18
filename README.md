@@ -1,15 +1,15 @@
-<h1 align="center">
-  Hi, I'm Praveen 👋
-</h1>
-<h3 align="center">
-  CS Student • DevOps Enthusiast • Gamer • VIT Chennai
-</h3>
-
-<!-- Small, stylish GIF on the right (thumbnail size) -->
-<p align="left">
-  <b>Modern web, DevOps, and gaming — let's build something epic!</b>
-  <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="70" height="70" style="border-radius:10px" alt="Cool Coding GIF"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <h1>Hi, I'm Praveen 👋</h1>
+      <h3>CS Student • DevOps Enthusiast • Gamer • VIT Chennai</h3>
+      <b>Modern web, DevOps, and gaming — let's build something epic!</b>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="70" height="70" alt="Cool Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
