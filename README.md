@@ -76,12 +76,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8F00FF&center=true&width=435&lines=Code.+Deploy.+Game.+Repeat." alt="Typing SVG" />
 </p>
-
+---
 <h3>🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soy-praveen&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=soy-praveen&theme=tokyonight&hide_border=true" />
 </p>
+
+
 
 
 <h3>🎧 Now Playing</h3>
