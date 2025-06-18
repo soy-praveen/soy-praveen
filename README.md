@@ -38,10 +38,21 @@
 
 ### 📊 GitHub Stats & Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soy-praveen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soy-praveen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<!-- Responsive side-by-side boxes with equal height -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=soy-praveen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    style="width: 48%; min-width: 300px; height: 200px;" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=soy-praveen&layout=compact&theme=tokyonight&hide_border=true" 
+    style="width: 48%; min-width: 300px; height: 200px;" 
+  />
+
+</div>
+
 
 ---
 
