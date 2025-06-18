@@ -60,6 +60,22 @@
   <img src="https://img.shields.io/badge/Gaming-1b2838?style=flat-square&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Projects-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
+<h3>🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soy-praveen&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+<h3>🎯 2025 Goals</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Solve_250+_LeetCode_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Deploy_5+_Projects-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learn_Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Land_a_DevOps_Internship-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=8F00FF&center=true&width=435&lines=Code.+Deploy.+Game.+Repeat." alt="Typing SVG" />
+</p>
 
 ---
 
