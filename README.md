@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Sahukari Praveen 👋
+  Hi, I'm Praveen 👋
 </h1>
 <h3 align="center">
   CS Student • DevOps Enthusiast • Gamer • VIT Chennai
@@ -14,9 +14,9 @@
 ---
 
 <p align="center">
-  <a href="mailto:praveensahukari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sahukari-praveen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/praveensahukari" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:yosoypraveen@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soy-praveen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/SoyPraveen" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.hackerrank.com/praveensahukari" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white"/></a>
 </p>
 
@@ -40,8 +40,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahukari-praveen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahukari-praveen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soy-praveen&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soy-praveen&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
