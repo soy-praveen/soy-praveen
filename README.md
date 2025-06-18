@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding gif"/>
+</p>
+
+<p align="center">
   <a href="mailto:yosoypraveen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/soy-praveen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/SoyPraveen"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -38,30 +42,25 @@
 
 ### 📊 GitHub Stats & Languages
 
-<!-- Responsive side-by-side boxes with equal height -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
+<p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=soy-praveen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    style="width: 48%; min-width: 300px; height: 200px;" 
+    width="48%" height="200" style="min-width: 300px;" 
   />
-
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=soy-praveen&layout=compact&theme=tokyonight&hide_border=true" 
-    style="width: 48%; min-width: 300px; height: 200px;" 
+    width="48%" height="200" style="min-width: 300px;" 
   />
-
-</div>
-
+</p>
 
 ---
 
 ### 🎮 Currently Into
 
-- 🎯 Competitive coding on LeetCode & HackerRank
-- ⚙️ Learning advanced CI/CD, cloud deployments, and DevOps tooling
-- 🕹️ Gaming: Solo Leveling, FPS, and story-based RPGs
-- 🌱 Building projects with Node.js, Python, and cloud APIs
+- 🎯 Competitive coding on LeetCode & HackerRank  
+- ⚙️ Learning advanced CI/CD, cloud deployments, and DevOps tooling  
+- 🕹️ Gaming: Solo Leveling, FPS, and story-based RPGs  
+- 🌱 Building projects with Node.js, Python, and cloud APIs  
 
 ---
 
@@ -69,4 +68,3 @@
 > “Leveling up in code and in game — always.”
 
 ---
-
