@@ -1,17 +1,13 @@
 <!-- Profile README: soy-praveen -->
-
 <h1 align="center">Hi, I'm Praveen.</h1>
 <h3 align="center">CS Student | DevOps Enthusiast | VIT Chennai</h3>
-
 <p align="center">
   Passionate about building <b>modern web apps</b>, diving into <b>DevOps</b>, and leveling up in <b>games & code</b>.<br/>
   Let's connect and build something epic together!
 </p>
-
 <p align="center">
   <img src="https://github.com/soy-praveen/soy-praveen/blob/main/coding.gif" width="200" alt="Coding gif"/>
 </p>
-
 <p align="center">
   <a href="mailto:yosoypraveen@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/soy-praveen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
