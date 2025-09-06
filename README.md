@@ -41,12 +41,7 @@
   <img src="https://img.shields.io/badge/Gaming-1b2838?style=flat-square&logo=steam&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Projects-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 </p>
-<h3>GitHub Trophies</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soy-praveen&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-<h3>2025 Goals</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Solve_250+_LeetCode_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
